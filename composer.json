@@ -1,0 +1,14 @@
+{
+    "name": "ismailfarooq/wp-boilerplate",
+    "autoload": {
+        "psr-4": {
+            "Ismailfarooq\\WpBoilerplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ismail"
+        }
+    ],
+    "require": {}
+}
