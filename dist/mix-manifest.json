@@ -1,6 +1,4 @@
 {
-    "/js/app.js": "/js/app.js",
-    "/blocks/example-block/editor.css": "/blocks/example-block/editor.css",
-    "/blocks/example-block/style.css": "/blocks/example-block/style.css",
-    "/css/app.css": "/css/app.css"
+    "/js/app.js": "/js/app.js?id=fdccb7d6a9faf256ab76c6f9d00028c9",
+    "/css/app.css": "/css/app.css?id=8629009d0507ed3ca4cc14a23bd65c37"
 }

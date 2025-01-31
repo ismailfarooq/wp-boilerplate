@@ -4,15 +4,19 @@
     "description": "A WordPress theme Boilerplate setup with Laravel Mix.",
     "main": "index.js",
     "scripts": {
-        "dev": "mix watch",
-        "production": "mix --production"
+        "dev": "mix",
+        "watch": "mix watch",
+        "build": "wp-scripts build --webpack-copy-php & mix --production"
     },
     "author": "Ismail Farooq",
     "license": "MIT",
     "devDependencies": {
+        "@wordpress/scripts": "^30.10.0",
         "laravel-mix": "^6.0.49",
         "resolve-url-loader": "^5.0.0",
-        "sass": "^1.66.1",
-        "sass-loader": "^13.3.2"
+        "sass": "^1.83.4",
+        "sass-loader": "^16.0.4",
+        "webpack": "^5.97.1",
+        "webpack-cli": "^6.0.1"
     }
 }

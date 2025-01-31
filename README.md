@@ -24,8 +24,9 @@ There are several NPM scripts available. You'll find the full list in the `packa
 
 | Script     | Description                                                                    |
 |------------|--------------------------------------------------------------------------------|
-| dev        | Creates a development build and watch for changes. |
-| production | Creates a production (minified) CSS & JS files and copy fonts & images from `/assets` folder into `/dist` folder |
+| dev        | Compile Source files |
+| watch      | Compile Source files & watch for changes. |
+| build      | Creates a deployment build i.e minify CSS & JS files and copy fonts & images from `/assets` folder into `/dist` folder & generate [WP Theme Blocks](https://developer.wordpress.org/block-editor/getting-started/tutorial/#cleaning-up), |
 
 
 

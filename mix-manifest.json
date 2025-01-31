@@ -1,6 +1,6 @@
 {
     "/dist/js/app.js": "/dist/js/app.js",
-    "/blocks/example-block/editor.css": "/blocks/example-block/editor.css",
-    "/blocks/example-block/style.css": "/blocks/example-block/style.css",
+    "src/blocks/example-block/editor.css": "src/blocks/example-block/editor.css",
+    "src/blocks/example-block/style.css": "src/blocks/example-block/style.css",
     "/dist/css/app.css": "/dist/css/app.css"
 }
